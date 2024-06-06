@@ -50,7 +50,10 @@ dependencies:
   location: ^6.0.2
   geolocator: ^12.0.0
   geocoding: ^3.0.0
-
+  flutter_app_name: ^0.1.1
+  
+flutter_app_name:
+  name: "My Cool App"
 
 dev_dependencies:
   flutter_test:
