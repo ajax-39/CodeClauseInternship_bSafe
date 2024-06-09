@@ -1,4 +1,4 @@
-# bSafe: Women's Safety App
+![WhatsApp Image 2024-06-09 at 11 28 24_e43ad016](https://github.com/ajax-39/Flutter_bSafe/assets/129135590/62ca4d1e-f7d2-4d47-a1c0-c52cb1de7973)# bSafe: Women's Safety App
 
 Welcome to **bSafe**, a comprehensive women's safety app designed to provide you with peace of mind and support in times of need. Whether you're commuting, traveling, or simply going about your daily activities, bSafe is here to ensure your safety with a suite of powerful features.
 
@@ -29,12 +29,3 @@ Welcome to **bSafe**, a comprehensive women's safety app designed to provide you
 - **Flutter**: For building the app's UI.
 - **Firebase**: For backend services such as authentication, real-time database, and cloud messaging.
 - **Google Maps API**: For real-time location tracking and interactive maps.
-
-## Getting Started
-
-To get started with bSafe, follow these steps:
-
-1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/yourusername/bSafe.git
-   cd bSafe
