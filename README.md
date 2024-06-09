@@ -6,11 +6,19 @@ Welcome to **bSafe**, a comprehensive women's safety app designed to provide you
 
 ### SOS Alert
 - **Instant SOS**: Send an emergency alert with your current location and a custom message to your trusted contacts with a single tap.
-- **Location Tracking**: Allows your trusted contacts to track your real-time location using Google Maps, ensuring they can find you quickly if needed.
+- **Location Sharing**: Include your current location (latitude and longitude) in the SOS message to help your contacts quickly identify your whereabouts.
+- **Custom Message**: Personalize the SOS message according to your needs.
+- **Multiple Contacts**: Add multiple trusted contacts to receive the SOS alert, increasing the chances of getting help promptly.
 
 ### Location Services
-- **Real-Time Location**: Track your current location easily with integrated Google Maps.
-- **Emergency Contacts and Places**: Access all important emergency numbers and nearby safe places in one place, enabling you to contact them with just a tap.
+- **Real-Time Location Tracking**: Track and display your real-time location on the map using Google Maps.
+- **Interactive Maps**: View your current position and navigate to various safe places or emergency contacts.
+- **Markers and Directions**: Set markers for important locations and get directions to these places.
+
+### Emergency Services Locations
+- **Nearby Services**: Display nearby emergency services like police stations, hospitals, and shelters.
+- **One-Tap Calling**: Call nearby police stations, hospitals, and other essential services with one tap.
+- **One-Tap Directions**: Get directions to nearby emergency services instantly.
 
 ### Motivation and Self-Defense
 - **Motivational Page**: Get inspired by a dedicated page full of motivational quotes and stories tailored for women.
@@ -18,6 +26,15 @@ Welcome to **bSafe**, a comprehensive women's safety app designed to provide you
 
 ## Technology Used
 
-- **Flutter**: The app is built using Flutter, Google's UI toolkit for crafting natively compiled applications for mobile, web, and desktop from a single codebase.
-- **Firebase**: Utilized for backend services such as authentication, real-time database, and cloud messaging.
-- **Google Maps API**: Integrated to provide real-time location tracking and display maps.
+- **Flutter**: For building the app's UI.
+- **Firebase**: For backend services such as authentication, real-time database, and cloud messaging.
+- **Google Maps API**: For real-time location tracking and interactive maps.
+
+## Getting Started
+
+To get started with bSafe, follow these steps:
+
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/yourusername/bSafe.git
+   cd bSafe
