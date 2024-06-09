@@ -1,16 +1,23 @@
-# safe
+# bSafe: Women's Safety App
 
-A new Flutter project.
+Welcome to **bSafe**, a comprehensive women's safety app designed to provide you with peace of mind and support in times of need. Whether you're commuting, traveling, or simply going about your daily activities, bSafe is here to ensure your safety with a suite of powerful features.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+### SOS Alert
+- **Instant SOS**: Send an emergency alert with your current location and a custom message to your trusted contacts with a single tap.
+- **Location Tracking**: Allows your trusted contacts to track your real-time location using Google Maps, ensuring they can find you quickly if needed.
 
-A few resources to get you started if this is your first Flutter project:
+### Location Services
+- **Real-Time Location**: Track your current location easily with integrated Google Maps.
+- **Emergency Contacts and Places**: Access all important emergency numbers and nearby safe places in one place, enabling you to contact them with just a tap.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Motivation and Self-Defense
+- **Motivational Page**: Get inspired by a dedicated page full of motivational quotes and stories tailored for women.
+- **Self-Defense Articles**: Read articles about self-defense techniques and strategies to empower yourself and stay prepared.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technology Used
+
+- **Flutter**: The app is built using Flutter, Google's UI toolkit for crafting natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Firebase**: Utilized for backend services such as authentication, real-time database, and cloud messaging.
+- **Google Maps API**: Integrated to provide real-time location tracking and display maps.
