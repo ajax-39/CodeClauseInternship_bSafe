@@ -1,3 +1,6 @@
+
+![app_ui](https://github.com/ajax-39/Flutter_bSafe/assets/129135590/1a526b8c-5a61-4781-976b-a597e70f68ad)
+
 Welcome to **bSafe**, a comprehensive women's safety app designed to provide you with peace of mind and support in times of need. Whether you're commuting, traveling, or simply going about your daily activities, bSafe is here to ensure your safety with a suite of powerful features.
 
 ## Features
