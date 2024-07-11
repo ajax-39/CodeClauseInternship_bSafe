@@ -5,9 +5,9 @@ Welcome to bSafe, a comprehensive women's safety app designed to provide you wit
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+- [Installation](#installation)
 
 ## Features
 
@@ -46,13 +46,12 @@ Welcome to bSafe, a comprehensive women's safety app designed to provide you wit
 6. Read motivational quotes and self-defense articles to stay inspired and prepared.
 
 ## Screenshots
-
-![WhatsApp Image 2024-06-09 at 11 28 24_e43ad016](https://github.com/ajax-39/CodeClauseInternship_bSafe/assets/129135590/53b1ea8a-9bf6-4987-83fe-2c531f41baf0)
-![WhatsApp Image 2024-06-09 at 11 28 24_368bf141](https://github.com/ajax-39/CodeClauseInternship_bSafe/assets/129135590/8338dedf-66d4-486b-8a91-5e9eb5d62af8)
-![WhatsApp Image 2024-06-09 at 11 28 24_dbedad1b](https://github.com/ajax-39/CodeClauseInternship_bSafe/assets/129135590/55d06e82-9d67-466a-a2dc-6dda7569bbf6)
-![WhatsApp Image 2024-06-09 at 12 26 01_764c7f5e](https://github.com/ajax-39/CodeClauseInternship_bSafe/assets/129135590/9bb48d90-1b73-4477-935d-b67c9b87b94a)
-![WhatsApp Image 2024-06-09 at 11 28 23_d1f895ba](https://github.com/ajax-39/CodeClauseInternship_bSafe/assets/129135590/5bd3cd61-0265-4424-b28d-bb9e69005413)
-![WhatsApp Image 2024-06-09 at 11 28 23_9df87236](https://github.com/ajax-39/CodeClauseInternship_bSafe/assets/129135590/c5f4549f-d043-4308-baf2-f3ee44ccebff)
+![WhatsApp Image 2024-06-09 at 11 28 24_e43ad016](https://github.com/ajax-39/CodeClauseInternship_bSafe/assets/129135590/df66c66c-b11d-4e8c-8236-d86ab80ad258)
+![WhatsApp Image 2024-06-09 at 11 28 24_dbedad1b](https://github.com/ajax-39/CodeClauseInternship_bSafe/assets/129135590/d98e74fe-dd67-4dc6-ad9c-23dd7e43150e)
+![WhatsApp Image 2024-06-09 at 12 26 01_764c7f5e](https://github.com/ajax-39/CodeClauseInternship_bSafe/assets/129135590/21954a1b-02c8-4ce0-a331-2613330ce3a7)
+![WhatsApp Image 2024-06-09 at 11 28 24_368bf141](https://github.com/ajax-39/CodeClauseInternship_bSafe/assets/129135590/78f620b3-bb48-4b68-a4e2-96d5ffc9e3af)
+![WhatsApp Image 2024-07-11 at 22 41 44_bf26502b](https://github.com/ajax-39/CodeClauseInternship_bSafe/assets/129135590/d6dd642c-cad3-4b26-9dd8-23a3fdf9a078)
+![WhatsApp Image 2024-06-09 at 11 28 23_d1f895ba](https://github.com/ajax-39/CodeClauseInternship_bSafe/assets/129135590/bff30f8e-26e6-4a38-bff0-285e56939479)
 
 
 ## Installation
